@@ -1,0 +1,11 @@
+stm32f1xx_it.c:68:6:HAL_UART_RxCpltCallback	16	static
+stm32f1xx_it.c:75:6:NMI_Handler	4	static
+stm32f1xx_it.c:88:6:HardFault_Handler	4	static
+stm32f1xx_it.c:103:6:MemManage_Handler	4	static
+stm32f1xx_it.c:118:6:BusFault_Handler	4	static
+stm32f1xx_it.c:133:6:UsageFault_Handler	4	static
+stm32f1xx_it.c:148:6:SVC_Handler	4	static
+stm32f1xx_it.c:161:6:DebugMon_Handler	4	static
+stm32f1xx_it.c:174:6:PendSV_Handler	4	static
+stm32f1xx_it.c:187:6:SysTick_Handler	8	static
+stm32f1xx_it.c:208:6:USB_LP_CAN1_RX0_IRQHandler	8	static

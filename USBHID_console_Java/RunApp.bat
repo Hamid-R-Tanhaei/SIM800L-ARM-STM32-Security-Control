@@ -1,0 +1,1 @@
+java -jar "dist\HID_Test_consule.jar"
